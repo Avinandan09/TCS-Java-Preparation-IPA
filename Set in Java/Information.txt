@@ -1,0 +1,21 @@
+There is no predefined set method in java but there is an library in java that can be used as a set like in python.
+
+We can use HashSet  in java which is a part of java.util package.
+It also can defined as LinkedHashSet
+
+There are some of key deference :
+1->HashSet does not maintain any order of insertion
+1->LinkedHashSet maintain the order of insertion
+
+2->Its quite complex to iterate through loop in 
+2->Its easy to iterate with any of the looping fn in java
+
+The process of using it:
+1. Import the java.util package.
+2. Create a HashSet object.
+3. Add elements to the set using add() method.
+4. Use the contains() method to check if an element is in the set.
+5. Use the remove() method to remove an element from the set.
+
+Example:
+    will be in the codes;
